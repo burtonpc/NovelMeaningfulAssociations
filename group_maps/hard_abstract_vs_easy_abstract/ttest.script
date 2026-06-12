@@ -1,0 +1,42 @@
+3dttest++ -prefix test.results/stats.ttest -paired -mask /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc \
+-clustsim \
+-setA hard_abstract \
+01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/101_hard_abstract+tlrc[0]' \
+02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/102_hard_abstract+tlrc[0]' \
+03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/103_hard_abstract+tlrc[0]' \
+04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/104_hard_abstract+tlrc[0]' \
+05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/105_hard_abstract+tlrc[0]' \
+06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/106_hard_abstract+tlrc[0]' \
+07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/107_hard_abstract+tlrc[0]' \
+08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/108_hard_abstract+tlrc[0]' \
+09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/109_hard_abstract+tlrc[0]' \
+10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/110_hard_abstract+tlrc[0]' \
+12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/112_hard_abstract+tlrc[0]' \
+13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/113_hard_abstract+tlrc[0]' \
+14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/114_hard_abstract+tlrc[0]' \
+15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/115_hard_abstract+tlrc[0]' \
+16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/116_hard_abstract+tlrc[0]' \
+17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/117_hard_abstract+tlrc[0]' \
+18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/118_hard_abstract+tlrc[0]' \
+19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/119_hard_abstract+tlrc[0]' \
+20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/120_hard_abstract+tlrc[0]' \
+-setB easy_abstract \
+01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_easy_abstract+tlrc[0]' \
+02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_easy_abstract+tlrc[0]' \
+03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_easy_abstract+tlrc[0]' \
+04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_easy_abstract+tlrc[0]' \
+05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_easy_abstract+tlrc[0]' \
+06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_easy_abstract+tlrc[0]' \
+07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_easy_abstract+tlrc[0]' \
+08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_easy_abstract+tlrc[0]' \
+09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_easy_abstract+tlrc[0]' \
+10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_easy_abstract+tlrc[0]' \
+12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_easy_abstract+tlrc[0]' \
+13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_easy_abstract+tlrc[0]' \
+14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_easy_abstract+tlrc[0]' \
+15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_easy_abstract+tlrc[0]' \
+16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_easy_abstract+tlrc[0]' \
+17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_easy_abstract+tlrc[0]' \
+18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_easy_abstract+tlrc[0]' \
+19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_easy_abstract+tlrc[0]' \
+20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_easy_abstract+tlrc[0]'

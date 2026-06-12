@@ -1,0 +1,37 @@
+# 3dClustSim -prefix test.results/stats_abstract_gt_novel.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats_abstract_gt_novel.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/masks/group_80%_mask+tlrc ./test.results/stats_abstract_gt_novel.ttest.0000.sdat ./test.results/stats_abstract_gt_novel.ttest.0001.sdat ./test.results/stats_abstract_gt_novel.ttest.0002.sdat ./test.results/stats_abstract_gt_novel.ttest.0003.sdat ./test.results/stats_abstract_gt_novel.ttest.0004.sdat ./test.results/stats_abstract_gt_novel.ttest.0005.sdat ./test.results/stats_abstract_gt_novel.ttest.0006.sdat ./test.results/stats_abstract_gt_novel.ttest.0007.sdat
+# 1-sided thresholding
+# Grid: 73x87x73 2.50x2.50x2.50 mm^3 (104783 voxels in mask)
+#
+# CLUSTER SIZE THRESHOLD(pthr,alpha) in Voxels
+# -NN 1  | alpha = Prob(Cluster >= given size)
+#  pthr  | .10000 .09000 .08000 .07000 .06000 .05000 .04000 .03000 .02000 .01000
+# ------ | ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+ 0.100000   10932  11633  12470  13250  14007  15179  16108  17231  18533  21428
+ 0.090000    7903   8562   9487  10326  11235  12222  13394  14528  16071  19040
+ 0.080000    5504   5992   6762   7454   8345   9182  10413  11551  13036  16169
+ 0.070000    3715   4064   4438   4941   5499   6269   7102   8292   9730  12872
+ 0.060000    2481   2720   2987   3324   3654   4106   4584   5581   6782   9311
+ 0.050000    1648   1766   1919   2097   2355   2657   3038   3533   4464   6115
+ 0.040000     999   1078   1173   1312   1429   1582   1855   2177   2696   3743
+ 0.030000     562    610    661    719    791    891   1021   1194   1514   1975
+ 0.020000     272    292    314    343    383    425    483    558    695    969
+ 0.015000     174    186    199    216    236    266    301    347    435    584
+ 0.010000     103    109    117    125    136    149    165    191    231    304
+ 0.007000      68     73     76     82     88     96    106    121    142    186
+ 0.005000      48     51     53     56     61     65     72     82     95    123
+ 0.003000      30     32     33     35     37     40     44     49     57     72
+ 0.002000      21     22     23     25     27     29     31     34     40     50
+ 0.001500      17     18     19     19     21     22     24     27     31     39
+ 0.001000      12     13     14     14     15     16     17     19     22     29
+ 0.000700      10     10     11     11     12     12     14     15     17     21
+ 0.000500       8      8      9      9      9     10     11     12     14     17
+ 0.000300       6      6      6      6      7      7      8      8      9     12
+ 0.000200       5      5      5      5      5      6      6      7      8      9
+ 0.000150       4      4      4      4      5      5      5      6      6      8
+ 0.000100       3      3      3      4      4      4      4      5      5      6
+ 7.000e-5       3      3      3      3      3      3      4      4      4      5
+ 5.000e-5       2      2      3      3      3      3      3      3      4      4
+ 3.000e-5       2      2      2      2      2      2      3      3      3      4
+ 2.000e-5       2      2      2      2      2      2      2      2      3      3
+ 1.500e-5       2      2      2      2      2      2      2      2      2      3
+ 1.000e-5       2      2      2      2      2      2      2      2      2      2

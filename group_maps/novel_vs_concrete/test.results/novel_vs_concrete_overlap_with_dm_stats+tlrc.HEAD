@@ -1,0 +1,136 @@
+
+type = string-attribute
+name = HISTORY_NOTE
+count = 14324
+'[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] ===================================\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] === History of inputs to 3dcalc ===\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] === Input a:\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] [yuexx142@node005.cla.umn.edu: Fri Dec  5 23:18:25 2025] {AFNI_25.0.07:linux_openmp_64} 3dttest++ -prefix test.results/stats.ttest -paired -mask /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc -clustsim -setA novel 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_novel+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_novel+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_novel+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_novel+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_novel+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_novel+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_novel+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_novel+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_novel+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_novel+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_novel+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_novel+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_novel+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_novel+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_novel+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_novel+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_novel+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_novel+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_novel+tlrc[0]' -setB concrete 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/101_concrete+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/102_concrete+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/103_concrete+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/104_concrete+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/105_concrete+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/106_concrete+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/107_concrete+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/108_concrete+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/109_concrete+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/110_concrete+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/112_concrete+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/113_concrete+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/114_concrete+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/115_concrete+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/116_concrete+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/117_concrete+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/118_concrete+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/119_concrete+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/120_concrete+tlrc[0]'\n[yuexx142@node005.cla.umn.edu: Sat Dec  6 00:15:49 2025] {AFNI_25.0.07:linux_openmp_64} 3drefit -atrstring AFNI_CLUSTSIM_NN1_1sided file:test.results/stats.ttest.CSimA.NN1_1sided.niml -atrstring AFNI_CLUSTSIM_NN2_1sided file:test.results/stats.ttest.CSimA.NN2_1sided.niml -atrstring AFNI_CLUSTSIM_NN3_1sided file:test.results/stats.ttest.CSimA.NN3_1sided.niml -atrstring AFNI_CLUSTSIM_NN1_2sided file:test.results/stats.ttest.CSimA.NN1_2sided.niml -atrstring AFNI_CLUSTSIM_NN2_2sided file:test.results/stats.ttest.CSimA.NN2_2sided.niml -atrstring AFNI_CLUSTSIM_NN3_2sided file:test.results/stats.ttest.CSimA.NN3_2sided.niml -atrstring AFNI_CLUSTSIM_NN1_bisided file:test.results/stats.ttest.CSimA.NN1_bisided.niml -atrstring AFNI_CLUSTSIM_NN2_bisided file:test.results/stats.ttest.CSimA.NN2_bisided.niml -atrstring AFNI_CLUSTSIM_NN3_bisided file:test.results/stats.ttest.CSimA.NN3_bisided.niml test.results/stats.ttest+tlrc.HEAD\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] === Input b:\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] [yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] ===================================\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] === History of inputs to 3dcalc ===\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] === Input a:\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] [yuexx142@node005.cla.umn.edu: Fri Dec  5 23:18:25 2025] {AFNI_25.0.07:linux_openmp_64} 3dttest++ -prefix test.results/stats.ttest -paired -mask /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc -clustsim -setA novel 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_novel+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_novel+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_novel+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_novel+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_novel+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_novel+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_novel+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_novel+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_novel+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_novel+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_novel+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_novel+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_novel+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_novel+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_novel+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_novel+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_novel+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_novel+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_novel+tlrc[0]' -setB concrete 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/101_concrete+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/102_concrete+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/103_concrete+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/104_concrete+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/105_concrete+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/106_concrete+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/107_concrete+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/108_concrete+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/109_concrete+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/110_concrete+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/112_concrete+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/113_concrete+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/114_concrete+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/115_concrete+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/116_concrete+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/117_concrete+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/118_concrete+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/119_concrete+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/120_concrete+tlrc[0]'\n[yuexx142@node005.cla.umn.edu: Sat Dec  6 00:15:49 2025] {AFNI_25.0.07:linux_openmp_64} 3drefit -atrstring AFNI_CLUSTSIM_NN1_1sided file:test.results/stats.ttest.CSimA.NN1_1sided.niml -atrstring AFNI_CLUSTSIM_NN2_1sided file:test.results/stats.ttest.CSimA.NN2_1sided.niml -atrstring AFNI_CLUSTSIM_NN3_1sided file:test.results/stats.ttest.CSimA.NN3_1sided.niml -atrstring AFNI_CLUSTSIM_NN1_2sided file:test.results/stats.ttest.CSimA.NN1_2sided.niml -atrstring AFNI_CLUSTSIM_NN2_2sided file:test.results/stats.ttest.CSimA.NN2_2sided.niml -atrstring AFNI_CLUSTSIM_NN3_2sided file:test.results/stats.ttest.CSimA.NN3_2sided.niml -atrstring AFNI_CLUSTSIM_NN1_bisided file:test.results/stats.ttest.CSimA.NN1_bisided.niml -atrstring AFNI_CLUSTSIM_NN2_bisided file:test.results/stats.ttest.CSimA.NN2_bisided.niml -atrstring AFNI_CLUSTSIM_NN3_bisided file:test.results/stats.ttest.CSimA.NN3_bisided.niml test.results/stats.ttest+tlrc.HEAD\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:12:16 2025] == Interactive clusterize mask:\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:12:16 2025] 3dClusterize -nosum -1Dformat -inset /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/correct_contrasts_direction/novel_vs_concrete/test.results/stats.ttest+tlrc.HEAD -idat 0 -ithr 1 -NN 1 -clust_nvox 14 -bisided -3.2905 3.2905 -pref_map Clust_mask\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] === Input b:\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] [burto108@node005.cla.umn.edu: Wed Jul 10 14:31:16 2024] {AFNI_20.3.01:linux_xorg7_64} 3dcalc -prefix Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_default_only_liberal -a Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_LiberalMask.nii.gz -expr 'step(a-6)'\n[burto108@node005.cla.umn.edu: Wed Jul 10 14:36:36 2024] {AFNI_20.3.01:linux_xorg7_64} 3drefit -view tlrc -space MNI Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_default_only_liberal+orig.\n[burto108@node005.cla.umn.edu: Fri Jul 12 13:46:19 2024] {AFNI_20.3.01:linux_xorg7_64} 3dresample -prefix Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_default_only_liberal_resampled -master royal_road+tlrc. -input Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_default_only_liberal+tlrc.\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] ===================================\n[yuexx142@node006.cla.umn.edu: Mon Dec  8 15:15:11 2025] {AFNI_25.0.07:linux_openmp_64} 3dcalc -prefix novel_vs_concrete_overlap_with_dm -a Clust_mask+tlrc. -b ../../Yeo2011_7Networks_MNI152_FreeSurferConformed1mm_default_only_liberal_resampled+tlrc. -expr 'a*b'\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:09 2025] {AFNI_25.0.07:linux_openmp_64} 3dcalc -prefix novel_vs_concrete_overlap_with_dm_binary -a novel_vs_concrete_overlap_with_dm+tlrc. -expr 'step(a)'\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] ===================================\n[yuexx142@node005.cla.umn.edu: Wed Dec 17 21:52:16 2025] {AFNI_25.0.07:linux_openmp_64} 3dcalc -prefix novel_vs_concrete_overlap_with_dm_stats -a stats.ttest+tlrc. -b novel_vs_concrete_overlap_with_dm_binary+tlrc. -expr 'a*b'~
+
+type = string-attribute
+name = TYPESTRING
+count = 15
+'3DIM_HEAD_FUNC~
+
+type = string-attribute
+name = IDCODE_STRING
+count = 27
+'AFN_418by7aDQTRVTgyjmIQcIQ~
+
+type = string-attribute
+name = IDCODE_DATE
+count = 25
+'Wed Dec 17 21:52:16 2025~
+
+type = integer-attribute
+name = SCENE_DATA
+count = 8
+ 2 11 1 -999 -999
+ -999 -999 -999
+
+type = string-attribute
+name = LABEL_1
+count = 5
+'zyxt~
+
+type = string-attribute
+name = LABEL_2
+count = 5
+'zyxt~
+
+type = string-attribute
+name = DATASET_NAME
+count = 5
+'zyxt~
+
+type = integer-attribute
+name = ORIENT_SPECIFIC
+count = 3
+ 1 2 4
+
+type  = float-attribute
+name  = ORIGIN
+count = 3
+             90          125.5            -72
+
+type  = float-attribute
+name  = DELTA
+count = 3
+           -2.5           -2.5            2.5
+
+type  = float-attribute
+name  = IJK_TO_DICOM
+count = 12
+           -2.5              0              0             90              0
+           -2.5              0          125.5              0              0
+            2.5            -72
+
+type  = float-attribute
+name  = IJK_TO_DICOM_REAL
+count = 12
+           -2.5              0              0             90              0
+           -2.5              0          125.5              0              0
+            2.5            -72
+
+type  = float-attribute
+name  = BRICK_STATS
+count = 12
+              0       1.039981              0       6.544126     -0.1720829
+       1.144094      -3.091937       5.817075     -0.4391146       0.448687
+         -5.051       4.281632
+
+type = integer-attribute
+name = DATASET_RANK
+count = 8
+ 3 6 0 0 0
+ 0 0 0
+
+type = integer-attribute
+name = DATASET_DIMENSIONS
+count = 5
+ 73 87 73 0 0
+
+type = integer-attribute
+name = BRICK_TYPES
+count = 6
+ 3 3 3 3 3
+ 3
+
+type  = float-attribute
+name  = BRICK_FLOAT_FACS
+count = 6
+              0              0              0              0              0
+              0
+
+type = string-attribute
+name = BRICK_LABS
+count = 90
+'novel-concrete_mean~novel-concrete_Zscr~novel_mean~novel_Zscr~concrete_mean~concrete_Zscr~
+
+type = string-attribute
+name = BRICK_KEYWORDS
+count = 6
+'~~~~~~
+
+type  = float-attribute
+name  = BRICK_STATAUX
+count = 9
+              1              5              0              3              5
+              0              5              5              0
+
+type = string-attribute
+name = BRICK_STATSYM
+count = 42
+'none;Zscore();none;Zscore();none;Zscore()~
+
+type = string-attribute
+name = TEMPLATE_SPACE
+count = 4
+'MNI~
+
+type = integer-attribute
+name = INT_CMAP
+count = 1
+ 0
+
+type = string-attribute
+name = BYTEORDER_STRING
+count = 10
+'LSB_FIRST~

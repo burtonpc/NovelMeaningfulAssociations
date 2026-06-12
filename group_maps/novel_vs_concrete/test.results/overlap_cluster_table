@@ -1,0 +1,28 @@
+#
+#  Cluster report 
+#[ Dataset prefix      = novel_vs_concrete_overlap_with_dm_stats ]
+#[ Threshold vol       = [1] 'novel-concrete_Zscr' ]
+#[ Supplement dat vol  = [0] 'novel-concrete_mean' ]
+#[ Option summary      = bisided,-3.2905,3.2905,clust_nvox,10,NN3 ]
+#[ Threshold value(s)  = left-tail thr=-3.290500;  right-tail thr=3.290500 ]
+#[ Aux. stat. info.    =  ]
+#[ Nvoxel threshold    = 10;  Volume threshold = 156.250 ]
+#[ Single voxel volume = 15.625 (microliters) ]
+#[ Neighbor type, NN   = 3 ]
+#[ Voxel datum type    = float ]
+#[ Voxel dimensions    = 2.500 mm X 2.500 mm X 2.500 mm ]
+#[ Coordinates Order   = LPI ]
+#[ Mean and SEM based on signed voxel intensities ]
+#
+#Volume  CM LR  CM PA  CM IS  minLR  maxLR  minPA  maxPA  minIS  maxIS    Mean     SEM    Max Int  MI LR  MI PA  MI IS
+#------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -------  -------  -------  -----  -----  -----
+   1430  -50.0   13.1   -4.2  -70.0  -22.5  -48.0   52.0  -39.5   30.5   0.2819   0.0037     1.04  -52.5   24.5   -4.5 
+    445   -6.7   50.4   37.1  -20.0    2.5   32.0   69.5   13.0   58.0   0.1811   0.0025   0.3278   -0.0   32.0   53.0 
+     90   46.1   29.9  -10.5   35.0   55.0   19.5   42.0  -22.0   -2.0   0.2394   0.0086   0.4778   47.5   24.5   -9.5 
+     72  -47.6   15.2   41.7  -52.5  -40.0    7.0   24.5   35.5   50.5   0.2086   0.0066   0.3763  -52.5   19.5   38.0 
+     58   -0.1  -16.8   34.9   -5.0    5.0  -25.5   -8.0   30.5   40.5    0.179   0.0066   0.3011   -0.0  -20.5   33.0 
+     53   -2.2  -43.0   28.2  -10.0   -0.0  -48.0  -38.0   18.0   35.5   0.2051   0.0072   0.3241   -0.0  -48.0   20.5 
+     16   49.4   10.3  -38.7   45.0   55.0    7.0   14.5  -42.0  -37.0   0.1083   0.0038   0.1288   52.5    9.5  -39.5 
+     14   52.1   23.4    3.0   47.5   55.0   22.0   27.0    0.5    8.0   0.1763   0.0138   0.2919   55.0   24.5    0.5 
+     11   -1.1   52.6  -15.5   -2.5   -0.0   49.5   57.0  -17.0  -12.0   0.2155   0.0112    0.295   -0.0   57.0  -17.0 
+     11   58.0   25.4   14.6   55.0   60.0   22.0   29.5   13.0   15.5    0.133   0.0053   0.1574   55.0   24.5   15.5 

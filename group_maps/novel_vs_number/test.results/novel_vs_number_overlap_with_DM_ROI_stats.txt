@@ -1,0 +1,95 @@
+tp101
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_novel+tlrc.HEAD	0[enov#0_Co]	0.483591	0.351221	0.159302	0.321260	0.591053	-0.159579	0.162163	-0.422617	-0.516917	-0.288283	0.260339	0.378232	-0.176209
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_number+tlrc.HEAD	0[enum#0_Co]	-0.154802	-0.074225	-0.113360	-0.071611	-0.063487	0.028059	-0.249233	-0.472263	-0.149480	-0.020900	0.321038	-0.081914	-0.138699
+tp102
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_novel+tlrc.HEAD	0[enov#0_Co]	0.391516	0.067872	0.069748	-0.182618	0.047491	-0.210495	-0.321545	0.175473	-0.186857	-0.567630	-0.092165	-0.159261	-0.446536
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_number+tlrc.HEAD	0[enum#0_Co]	-0.095854	-0.141728	-0.175209	-0.062271	-0.192301	-0.025418	-0.525862	-0.125174	0.017588	-0.218846	0.117464	-0.427432	-0.098530
+tp103
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_novel+tlrc.HEAD	0[enov#0_Co]	0.424679	0.307496	0.164349	0.204850	0.120307	-0.352966	0.182219	0.048978	-0.143036	-0.102308	-0.097043	0.265942	-0.161749
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_number+tlrc.HEAD	0[enum#0_Co]	-0.081671	-0.015853	-0.064555	-0.195255	-0.035064	0.174515	-0.252824	-0.093173	-0.053346	-0.006555	0.074428	-0.133844	-0.066806
+tp104
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_novel+tlrc.HEAD	0[enov#0_Co]	0.543962	0.494870	0.474157	0.174770	0.564634	-0.127413	-0.028482	0.188042	-0.106048	0.044327	0.180413	0.286003	-0.092753
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_number+tlrc.HEAD	0[enum#0_Co]	0.067138	0.170717	0.151444	-0.025880	0.109796	0.188839	-0.083152	-0.015782	0.125489	0.332901	0.108956	0.050535	0.082887
+tp105
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_novel+tlrc.HEAD	0[enov#0_Co]	0.377728	0.243284	0.117814	0.118061	0.130393	-0.099916	-0.224827	0.034549	-0.287432	-0.443909	-0.183338	-0.224481	-0.382267
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_number+tlrc.HEAD	0[enum#0_Co]	-0.158513	-0.036187	-0.146015	0.005445	-0.119626	0.013266	-0.284611	-0.167938	-0.070628	-0.202388	-0.226219	-0.312639	-0.192860
+tp106
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_novel+tlrc.HEAD	0[enov#0_Co]	0.516514	0.286169	0.189711	0.252847	0.258925	-0.274163	0.255195	0.182720	-0.108126	-0.411161	-0.351096	0.170234	-0.318368
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_number+tlrc.HEAD	0[enum#0_Co]	0.062634	-0.083630	-0.077090	-0.166824	0.003444	-0.165016	-0.379929	-0.001760	0.052348	-0.138000	-0.097918	-0.204063	-0.022602
+tp107
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_novel+tlrc.HEAD	0[enov#0_Co]	0.599142	0.418098	0.253187	0.392569	0.503509	-0.257324	0.448418	0.154990	-0.233280	-0.273080	-0.088311	0.350437	-0.288805
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_number+tlrc.HEAD	0[enum#0_Co]	0.054843	0.077142	-0.047732	0.119853	0.125782	0.040058	-0.597860	-0.087662	0.080794	-0.164851	0.077388	-0.336327	-0.068584
+tp108
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_novel+tlrc.HEAD	0[enov#0_Co]	0.658421	0.336273	0.188059	0.133707	0.226432	-0.196526	0.354128	0.290475	-0.255458	-0.253732	-0.191984	0.363618	-0.222984
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_number+tlrc.HEAD	0[enum#0_Co]	-0.029582	0.065563	-0.051082	0.007504	-0.201192	0.183234	-0.278447	-0.098044	0.296016	0.080311	-0.013544	0.149822	0.490594
+tp109
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_novel+tlrc.HEAD	0[enov#0_Co]	0.155753	-0.004220	0.028313	-0.042535	0.051018	-0.436314	-0.040683	-0.165356	-0.193985	-0.257316	-0.465579	-0.277495	-0.295271
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_number+tlrc.HEAD	0[enum#0_Co]	-0.187834	-0.246165	-0.207726	-0.230411	-0.015639	-0.473150	-0.442053	-0.291241	-0.212668	-0.332338	-0.342515	-0.677878	-0.463319
+tp110
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_novel+tlrc.HEAD	0[enov#0_Co]	0.244141	-0.044834	0.026575	-0.053157	0.014033	-0.222254	-0.145549	-0.027550	-0.266897	-0.222609	-0.039932	-0.197344	-0.382277
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_number+tlrc.HEAD	0[enum#0_Co]	-0.057598	-0.139945	-0.165370	-0.134666	-0.073109	-0.059588	-0.066458	-0.168035	0.062405	-0.057115	0.087685	-0.338749	0.034681
+tp112
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_novel+tlrc.HEAD	0[enov#0_Co]	0.341218	0.037415	0.078673	0.228431	0.158357	-0.232408	0.033552	0.208384	-0.075052	-0.088073	-0.208820	-0.078125	-0.243211
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_number+tlrc.HEAD	0[enum#0_Co]	-0.048484	-0.142241	-0.047036	0.093788	-0.028864	-0.055250	-0.187686	0.047789	0.101720	0.094110	0.002960	-0.125959	-0.045358
+tp113
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_novel+tlrc.HEAD	0[enov#0_Co]	0.481433	0.256721	0.121340	0.227286	0.122189	-0.179563	0.086592	-0.137479	-0.040369	0.177903	-0.292296	0.085822	0.064951
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_number+tlrc.HEAD	0[enum#0_Co]	-0.000983	0.026091	-0.016642	0.027702	-0.329354	0.059760	-0.178432	-0.348810	0.040053	0.228506	-0.121617	0.130560	0.139786
+tp114
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_novel+tlrc.HEAD	0[enov#0_Co]	0.403065	0.225023	0.161830	0.001749	0.135773	-0.334852	0.015475	0.346351	-0.272294	-0.334524	-0.121288	-0.486100	-0.119438
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_number+tlrc.HEAD	0[enum#0_Co]	-0.125557	-0.099020	-0.092715	-0.067065	0.006103	0.077347	-0.438039	0.426966	-0.036487	-0.132749	0.055079	-0.706794	0.017241
+tp115
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_novel+tlrc.HEAD	0[enov#0_Co]	0.248002	0.197013	0.070324	0.070494	0.239098	-0.162450	-0.079033	-0.057032	-0.184631	-0.139054	-0.250595	-0.192237	-0.083412
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_number+tlrc.HEAD	0[enum#0_Co]	-0.134229	-0.017574	-0.060535	0.056383	-0.047867	-0.044384	-0.308881	-0.017042	0.112214	0.482180	-0.049344	-0.513862	0.196819
+tp116
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_novel+tlrc.HEAD	0[enov#0_Co]	0.853037	0.128764	0.152970	0.220421	0.509765	-0.502149	-0.224166	0.132968	-0.111856	-0.433373	-0.162117	0.170740	-0.061017
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_number+tlrc.HEAD	0[enum#0_Co]	-0.105291	-0.161443	-0.154554	-0.256342	-0.041482	-0.045563	-0.188121	-0.388656	-0.064220	-0.248917	0.000845	-0.180492	0.085408
+tp117
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_novel+tlrc.HEAD	0[enov#0_Co]	0.669876	0.289469	0.033408	0.262891	0.489665	-0.070738	0.126554	0.173079	-0.169160	0.142015	0.089804	0.122206	-0.107744
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_number+tlrc.HEAD	0[enum#0_Co]	-0.082633	0.026434	-0.030653	-0.133856	0.016958	0.008947	-0.148468	-0.021434	0.098254	0.228914	0.283836	-0.028352	0.167637
+tp118
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_novel+tlrc.HEAD	0[enov#0_Co]	0.564964	0.351253	0.338394	0.165134	0.592392	-0.226732	0.238906	0.001631	-0.452134	-0.657649	-0.023508	0.094943	-0.056375
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_number+tlrc.HEAD	0[enum#0_Co]	-0.018274	-0.017626	-0.072192	-0.084966	0.139024	-0.060295	-0.270262	-0.255141	-0.162011	-0.337899	0.178324	-0.173965	-0.087078
+tp119
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_novel+tlrc.HEAD	0[enov#0_Co]	0.421242	0.105683	0.215208	0.162133	0.060752	-0.163513	0.224571	0.092472	-0.065771	-0.245515	-0.132671	0.103638	-0.105672
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_number+tlrc.HEAD	0[enum#0_Co]	-0.076487	-0.053268	-0.015784	-0.067384	0.022681	0.015447	-0.189466	-0.180176	0.079793	0.019418	-0.096216	-0.133352	0.038709
+tp120
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_novel+tlrc.HEAD	0[enov#0_Co]	0.333690	0.108903	0.104045	0.071417	0.222508	-0.142024	-0.167406	-0.094557	-0.320280	-0.279963	-0.236225	-0.440743	-0.594893
+File	Sub-brick	Mean_1  	Mean_3  	Mean_4  	Mean_5  	Mean_6  	Mean_8  	Mean_9  	Mean_14  	Mean_15  	Mean_22  	Mean_24  	Mean_27  	Mean_34  
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_number+tlrc.HEAD	0[enum#0_Co]	-0.122665	-0.087183	-0.135876	-0.163951	-0.069233	-0.116583	-0.574673	-0.180530	-0.157797	-0.097790	-0.032942	-0.485825	-0.255798

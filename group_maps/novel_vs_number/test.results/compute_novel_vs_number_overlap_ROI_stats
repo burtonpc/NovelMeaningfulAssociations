@@ -1,0 +1,31 @@
+touch novel_vs_number_overlap_with_DM_ROI_stats.txt
+
+foreach subj (tp101 \
+tp102 \
+tp103 \
+tp104 \
+tp105 \
+tp106 \
+tp107 \
+tp108 \
+tp109 \
+tp110 \
+tp112 \
+tp113 \
+tp114 \
+tp115 \
+tp116 \
+tp117 \
+tp118 \
+tp119 \
+tp120)
+
+echo $subj >> novel_vs_number_overlap_with_DM_ROI_stats.txt
+3dROIstats -mask novel_vs_number_overlap_with_dm+tlrc. \
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/{$subj}_novel+tlrc.HEAD >> novel_vs_number_overlap_with_DM_ROI_stats.txt 
+
+3dROIstats -mask novel_vs_number_overlap_with_dm+tlrc. \
+/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/{$subj}_number+tlrc.HEAD >> novel_vs_number_overlap_with_DM_ROI_stats.txt
+
+end
+

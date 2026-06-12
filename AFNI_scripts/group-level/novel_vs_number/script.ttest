@@ -1,0 +1,61 @@
+#!/bin/tcsh -xef
+
+# created by uber_ttest.py: version 2.0 (December 28, 2017)
+# creation date: Tue Oct 28 15:35:58 2025
+
+# ---------------------- set process variables ----------------------
+
+set mask_dset = /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc
+
+set dirA = /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged
+
+# specify and possibly create results directory
+set results_dir = test.results
+if ( ! -d $results_dir ) mkdir $results_dir
+
+# ------------------------- process the data -------------------------
+
+3dttest++ -prefix $results_dir/stats.ttest -AminusB -paired \
+          -mask $mask_dset                                  \
+          -clustsim                                         \
+          -setA novel                                       \
+             01 "$dirA/tp101_novel+tlrc[0]"                 \
+             02 "$dirA/tp102_novel+tlrc[0]"                 \
+             03 "$dirA/tp103_novel+tlrc[0]"                 \
+             04 "$dirA/tp104_novel+tlrc[0]"                 \
+             05 "$dirA/tp105_novel+tlrc[0]"                 \
+             06 "$dirA/tp106_novel+tlrc[0]"                 \
+             07 "$dirA/tp107_novel+tlrc[0]"                 \
+             08 "$dirA/tp108_novel+tlrc[0]"                 \
+             09 "$dirA/tp109_novel+tlrc[0]"                 \
+             10 "$dirA/tp110_novel+tlrc[0]"                 \
+             12 "$dirA/tp112_novel+tlrc[0]"                 \
+             13 "$dirA/tp113_novel+tlrc[0]"                 \
+             14 "$dirA/tp114_novel+tlrc[0]"                 \
+             15 "$dirA/tp115_novel+tlrc[0]"                 \
+             16 "$dirA/tp116_novel+tlrc[0]"                 \
+             17 "$dirA/tp117_novel+tlrc[0]"                 \
+             18 "$dirA/tp118_novel+tlrc[0]"                 \
+             19 "$dirA/tp119_novel+tlrc[0]"                 \
+             20 "$dirA/tp120_novel+tlrc[0]"                 \
+          -setB number                                      \
+             01 "$dirA/tp101_number+tlrc[0]"                \
+             02 "$dirA/tp102_number+tlrc[0]"                \
+             03 "$dirA/tp103_number+tlrc[0]"                \
+             04 "$dirA/tp104_number+tlrc[0]"                \
+             05 "$dirA/tp105_number+tlrc[0]"                \
+             06 "$dirA/tp106_number+tlrc[0]"                \
+             07 "$dirA/tp107_number+tlrc[0]"                \
+             08 "$dirA/tp108_number+tlrc[0]"                \
+             09 "$dirA/tp109_number+tlrc[0]"                \
+             10 "$dirA/tp110_number+tlrc[0]"                \
+             12 "$dirA/tp112_number+tlrc[0]"                \
+             13 "$dirA/tp113_number+tlrc[0]"                \
+             14 "$dirA/tp114_number+tlrc[0]"                \
+             15 "$dirA/tp115_number+tlrc[0]"                \
+             16 "$dirA/tp116_number+tlrc[0]"                \
+             17 "$dirA/tp117_number+tlrc[0]"                \
+             18 "$dirA/tp118_number+tlrc[0]"                \
+             19 "$dirA/tp119_number+tlrc[0]"                \
+             20 "$dirA/tp120_number+tlrc[0]"
+

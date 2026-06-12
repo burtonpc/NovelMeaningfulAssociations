@@ -1,0 +1,10 @@
+foreach contrast (easy_novel_vs_easy_abstract \
+hard_abstract_vs_easy_abstract \
+hard_novel_vs_hard_abstract \
+novel_vs_abstract \
+novel_vs_concrete \
+novel_vs_number)
+
+cp ../../{$contrast}/*script $contrast
+
+end

@@ -1,0 +1,90 @@
+++ Input coordinates orientation set by user to LPI
++++++++ nearby Atlas structures +++++++
+
+Original input data coordinates in MNI space
+
+Focus point (LPI)=
+    -43 mm [L],   27 mm [A],   -4 mm [I] {TLRC}
+    -44 mm [L],   28 mm [A],   -4 mm [I] {MNI}
+
+Atlas CA_ML_18_MNI: Macro Labels (N27-MNI)
+   Focus point:  Left_Inferior_Frontal_Gyrus_(p._Orbitalis)
+ * Within 2 mm: Left_Inferior_Frontal_Gyrus_(p._Triangularis)
+
+
+******** Please use results with caution! ********
+******** Brain anatomy is quite variable! ********
+******** The database may contain errors! ********
+
++++++++ nearby Atlas structures +++++++
+
+Original input data coordinates in MNI space
+
+Focus point (LPI)=
+     -3 mm [L],   40 mm [A],   35 mm [S] {TLRC}
+     -3 mm [L],   39 mm [A],   40 mm [S] {MNI}
+
+Atlas CA_ML_18_MNI: Macro Labels (N27-MNI)
+   Focus point:  Left_Superior_Medial_Gyrus
+ * Within 7 mm: Right_Superior_Medial_Gyrus
+
+
+******** Please use results with caution! ********
+******** Brain anatomy is quite variable! ********
+******** The database may contain errors! ********
+
++++++++ nearby Atlas structures +++++++
+
+Original input data coordinates in MNI space
+
+Focus point (LPI)=
+      1 mm [R],  -27 mm [P],   33 mm [S] {TLRC}
+      1 mm [R],  -30 mm [P],   34 mm [S] {MNI}
+
+Atlas CA_ML_18_MNI: Macro Labels (N27-MNI)
+   Focus point:  Left_Middle_Cingulate_Cortex
+ * Within 1 mm: Right_Middle_Cingulate_Cortex
+ * Within 2 mm: Left_Posterior_Cingulate_Cortex
+ * Within 7 mm: Right_Posterior_Cingulate_Cortex
+
+
+******** Please use results with caution! ********
+******** Brain anatomy is quite variable! ********
+******** The database may contain errors! ********
+
++++++++ nearby Atlas structures +++++++
+
+Original input data coordinates in MNI space
+
+Focus point (LPI)=
+     -5 mm [L],  -48 mm [P],   14 mm [S] {TLRC}
+     -5 mm [L],  -50 mm [P],   13 mm [S] {MNI}
+
+Atlas CA_ML_18_MNI: Macro Labels (N27-MNI)
+   Focus point:  Left_Precuneus
+ * Within 5 mm: Left_Posterior_Cingulate_Cortex
+ * Within 6 mm: Left_Calcarine_Gyrus
+ * Within 7 mm: Cerebellar_Vermis_(4/5)
+
+
+******** Please use results with caution! ********
+******** Brain anatomy is quite variable! ********
+******** The database may contain errors! ********
+
++++++++ nearby Atlas structures +++++++
+
+Original input data coordinates in MNI space
+
+Focus point (LPI)=
+     42 mm [R],   28 mm [A],  -10 mm [I] {TLRC}
+     43 mm [R],   29 mm [A],  -11 mm [I] {MNI}
+
+Atlas CA_ML_18_MNI: Macro Labels (N27-MNI)
+   Focus point:  Right_Inferior_Frontal_Gyrus_(p._Orbitalis)
+ * Within 5 mm: Right_Insula_Lobe
+
+
+******** Please use results with caution! ********
+******** Brain anatomy is quite variable! ********
+******** The database may contain errors! ********
+

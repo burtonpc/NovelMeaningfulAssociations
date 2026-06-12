@@ -1,0 +1,674 @@
+
+type = string-attribute
+name = HISTORY_NOTE
+count = 5692
+'[burto108@node005.cla.umn.edu: Tue Oct 28 15:37:03 2025] {AFNI_25.0.07:linux_openmp_64} 3dttest++ -prefix test.results/stats.ttest -AminusB -paired -mask /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc -clustsim -setA novel 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_novel+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_novel+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_novel+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_novel+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_novel+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_novel+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_novel+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_novel+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_novel+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_novel+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_novel+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_novel+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_novel+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_novel+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_novel+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_novel+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_novel+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_novel+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_novel+tlrc[0]' -setB number 01 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp101_number+tlrc[0]' 02 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp102_number+tlrc[0]' 03 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp103_number+tlrc[0]' 04 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp104_number+tlrc[0]' 05 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp105_number+tlrc[0]' 06 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp106_number+tlrc[0]' 07 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp107_number+tlrc[0]' 08 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp108_number+tlrc[0]' 09 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp109_number+tlrc[0]' 10 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp110_number+tlrc[0]' 12 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp112_number+tlrc[0]' 13 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp113_number+tlrc[0]' 14 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp114_number+tlrc[0]' 15 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp115_number+tlrc[0]' 16 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp116_number+tlrc[0]' 17 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp117_number+tlrc[0]' 18 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp118_number+tlrc[0]' 19 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp119_number+tlrc[0]' 20 '/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/pcb/subject_results/averaged/tp120_number+tlrc[0]'\n[burto108@node005.cla.umn.edu: Tue Oct 28 15:52:35 2025] {AFNI_25.0.07:linux_openmp_64} 3drefit -atrstring AFNI_CLUSTSIM_NN1_1sided file:test.results/stats.ttest.CSimA.NN1_1sided.niml -atrstring AFNI_CLUSTSIM_NN2_1sided file:test.results/stats.ttest.CSimA.NN2_1sided.niml -atrstring AFNI_CLUSTSIM_NN3_1sided file:test.results/stats.ttest.CSimA.NN3_1sided.niml -atrstring AFNI_CLUSTSIM_NN1_2sided file:test.results/stats.ttest.CSimA.NN1_2sided.niml -atrstring AFNI_CLUSTSIM_NN2_2sided file:test.results/stats.ttest.CSimA.NN2_2sided.niml -atrstring AFNI_CLUSTSIM_NN3_2sided file:test.results/stats.ttest.CSimA.NN3_2sided.niml -atrstring AFNI_CLUSTSIM_NN1_bisided file:test.results/stats.ttest.CSimA.NN1_bisided.niml -atrstring AFNI_CLUSTSIM_NN2_bisided file:test.results/stats.ttest.CSimA.NN2_bisided.niml -atrstring AFNI_CLUSTSIM_NN3_bisided file:test.results/stats.ttest.CSimA.NN3_bisided.niml test.results/stats.ttest+tlrc.HEAD~
+
+type = string-attribute
+name = TYPESTRING
+count = 15
+'3DIM_HEAD_FUNC~
+
+type = string-attribute
+name = IDCODE_STRING
+count = 27
+'AFN_bLQJV4pe1P3MrvMnFIKhaw~
+
+type = string-attribute
+name = IDCODE_DATE
+count = 25
+'Tue Oct 28 15:37:03 2025~
+
+type = integer-attribute
+name = SCENE_DATA
+count = 8
+ 2 11 1 -999 -999
+ -999 -999 -999
+
+type = string-attribute
+name = LABEL_1
+count = 5
+'zyxt~
+
+type = string-attribute
+name = LABEL_2
+count = 5
+'zyxt~
+
+type = string-attribute
+name = DATASET_NAME
+count = 5
+'zyxt~
+
+type = integer-attribute
+name = ORIENT_SPECIFIC
+count = 3
+ 1 2 4
+
+type  = float-attribute
+name  = ORIGIN
+count = 3
+             90          125.5            -72
+
+type  = float-attribute
+name  = DELTA
+count = 3
+           -2.5           -2.5            2.5
+
+type  = float-attribute
+name  = IJK_TO_DICOM
+count = 12
+           -2.5              0              0             90              0
+           -2.5              0          125.5              0              0
+            2.5            -72
+
+type  = float-attribute
+name  = IJK_TO_DICOM_REAL
+count = 12
+           -2.5              0              0             90              0
+           -2.5              0          125.5              0              0
+            2.5            -72
+
+type  = float-attribute
+name  = BRICK_STATS
+count = 12
+     -0.6314452       1.457489      -5.561818       6.400195      -1.134331
+       1.742319       -6.08467       6.323703     -0.7763722       1.830796
+      -6.076188       6.321275
+
+type = integer-attribute
+name = DATASET_RANK
+count = 8
+ 3 6 0 0 0
+ 0 0 0
+
+type = integer-attribute
+name = DATASET_DIMENSIONS
+count = 5
+ 73 87 73 0 0
+
+type = integer-attribute
+name = BRICK_TYPES
+count = 6
+ 3 3 3 3 3
+ 3
+
+type  = float-attribute
+name  = BRICK_FLOAT_FACS
+count = 6
+              0              0              0              0              0
+              0
+
+type = string-attribute
+name = BRICK_LABS
+count = 82
+'novel-number_mean~novel-number_Zscr~novel_mean~novel_Zscr~number_mean~number_Zscr~
+
+type  = float-attribute
+name  = BRICK_STATAUX
+count = 9
+              1              5              0              3              5
+              0              5              5              0
+
+type = string-attribute
+name = BRICK_STATSYM
+count = 42
+'none;Zscore();none;Zscore();none;Zscore()~
+
+type  = float-attribute
+name  = FDRCURVE_000001
+count = 103
+   0.0001500545     0.06400044      0.5599753       0.583154      0.6078585
+      0.6334115      0.6600813      0.6889386       0.717696      0.7483445
+      0.7804546      0.8133997      0.8471045      0.8806272      0.9156814
+      0.9511369      0.9890622        1.02682       1.065754       1.104204
+       1.144713       1.184515       1.225225       1.266217       1.306902
+       1.349236       1.391562       1.434331       1.476979       1.521389
+       1.563659       1.607166       1.651509       1.695499       1.739585
+       1.784356       1.829229       1.875491       1.921156       1.968011
+       2.014895       2.060092       2.106351       2.153575       2.199552
+       2.246055       2.293171       2.341233       2.388073       2.434958
+       2.482327       2.528647       2.575715       2.623867       2.672555
+       2.720094       2.769616       2.816527       2.865448       2.913128
+       2.957823       3.006274       3.050294       3.096603       3.143178
+       3.193327       3.237941        3.28757        3.33312       3.381057
+       3.424758       3.475045       3.516035       3.562518       3.607695
+       3.645112       3.681284       3.722732       3.767131        3.81502
+       3.850255       3.890154       3.929269       3.975332       4.007771
+       4.034694       4.079259       4.116896       4.139194        4.16082
+       4.184599        4.21319       4.248036       4.277044       4.283643
+        4.30466       4.328281       4.364688       4.401094       4.415341
+       4.420725        4.42611       4.431494
+
+type  = float-attribute
+name  = FDRCURVE_000003
+count = 103
+   0.0002859916     0.06323417      0.7201083      0.7436819      0.7691703
+      0.7957554      0.8237538      0.8530919      0.8830831      0.9145213
+      0.9466853      0.9802688       1.014915       1.050405       1.087219
+       1.124705       1.162825       1.201782         1.2422       1.284101
+       1.325995       1.369045       1.412693       1.456185       1.500473
+       1.545133       1.590538       1.636487       1.682899       1.728975
+       1.775846       1.823145       1.871416       1.919482       1.967186
+       2.014628       2.063364       2.111208         2.1599       2.208417
+       2.257079       2.305188       2.354142       2.402897       2.450907
+       2.499062       2.546819       2.594161       2.643102       2.691081
+       2.737934        2.78451       2.832408       2.879266       2.926837
+       2.973161       3.019013        3.06508       3.109152       3.154509
+       3.199394        3.24404       3.287683       3.332301       3.376542
+       3.420569       3.465234       3.507297       3.549238       3.592706
+       3.636034       3.678956       3.717497       3.757502         3.7976
+       3.836169       3.876706       3.916955       3.952173       3.991659
+       4.022334       4.057041       4.090765       4.113758       4.133512
+       4.166523       4.198449       4.238316        4.26475       4.283329
+       4.293994       4.295722       4.295722       4.295722       4.304126
+       4.317875       4.336345        4.35311       4.364671        4.37394
+       4.385822       4.392848       4.392848
+
+type  = float-attribute
+name  = FDRCURVE_000005
+count = 103
+   0.0001529128     0.06321122      0.6867126      0.7103132      0.7351565
+      0.7619945      0.7894206      0.8175288      0.8479693      0.8795153
+      0.9120467      0.9457749      0.9795403       1.014605        1.05075
+       1.087752        1.12629       1.166112       1.205789       1.246092
+       1.287779       1.328503       1.371119       1.414068       1.457271
+       1.501314         1.5461       1.590867       1.637036       1.682852
+       1.728426        1.77495       1.821977       1.868925       1.916917
+       1.965384       2.012535        2.05947       2.107575       2.154848
+       2.202429       2.250399       2.298227       2.343939       2.390877
+        2.43776       2.484345       2.531417       2.577197       2.623075
+       2.668151       2.714432       2.760676       2.805752       2.850634
+       2.896097       2.941747       2.985388       3.030993       3.074848
+       3.118832       3.162415       3.204833       3.247548       3.286173
+       3.327871       3.370808       3.412123       3.450181       3.490287
+       3.531983       3.572867       3.616033       3.655166       3.691837
+       3.731049       3.769267        3.80162       3.839405        3.87653
+       3.906607         3.9408       3.963554       3.986669       4.010307
+       4.039584       4.062473       4.085177       4.112979       4.139348
+       4.145916       4.179781       4.182307        4.21556       4.225538
+       4.225538       4.225538       4.240423       4.249378       4.275234
+       4.301414       4.327594       4.353774
+
+type  = float-attribute
+name  = MDFCURVE_000001
+count = 38
+      -7.845328      0.2033185      0.9990249      0.9987038       0.998235
+      0.9974282      0.9967318      0.9956684      0.9943134      0.9928603
+      0.9909496       0.988421      0.9859009      0.9820465      0.9772884
+      0.9714642      0.9650034      0.9578183      0.9489945      0.9385542
+      0.9258312      0.9110273      0.8908796      0.8689738      0.8440818
+       0.814289      0.7791817      0.7378345      0.6881734       0.630626
+       0.565131       0.490196      0.4049823      0.3158719      0.2180398
+      0.1212744     0.03997853              0
+
+type  = float-attribute
+name  = MDFCURVE_000003
+count = 37
+      -7.798764      0.2043357      0.9990149       0.998421       0.997498
+      0.9963987      0.9955457      0.9939227      0.9920075      0.9888099
+      0.9854114      0.9809401      0.9757502       0.969764      0.9619858
+      0.9527584      0.9406739      0.9279865      0.9128151      0.8937742
+      0.8716695      0.8468284      0.8161769      0.7811033      0.7402787
+      0.6940606      0.6443675       0.588373      0.5243316      0.4563921
+       0.381088      0.3056767      0.2269007      0.1489789     0.07785375
+     0.02524021              0
+
+type  = float-attribute
+name  = MDFCURVE_000005
+count = 36
+      -7.554431      0.2049329      0.9990065      0.9985272      0.9979177
+      0.9971293      0.9959002      0.9943287      0.9922641      0.9894872
+      0.9861867      0.9822899      0.9768815      0.9708169      0.9632092
+      0.9544125      0.9432837      0.9296643        0.91234      0.8931986
+      0.8672113       0.839302      0.8058497      0.7683656      0.7252811
+      0.6737846      0.6164022      0.5494151      0.4780536      0.3994539
+      0.3156844      0.2315993      0.1477459     0.07821734     0.02096166
+              0
+
+type = string-attribute
+name = TEMPLATE_SPACE
+count = 4
+'MNI~
+
+type = integer-attribute
+name = INT_CMAP
+count = 1
+ 0
+
+type = string-attribute
+name = BYTEORDER_STRING
+count = 10
+'LSB_FIRST~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN1_1sided
+count = 2182
+'<3dClustSim_NN1
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="1-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 10368 11107 11937 12692 13620 14751 15763 17026 18744 21316
+ 7643 8297 9010 9774 10627 11803 13096 14384 16195 18826
+ 5348 5821 6438 7142 7908 8918 9973 11446 13196 15906
+ 3664 4017 4418 4891 5458 6148 7022 8297 9940 12694
+ 2522 2696 2953 3250 3611 4099 4777 5535 7183 9605
+ 1619 1767 1929 2124 2339 2633 3113 3700 4514 6488
+ 1012 1100 1189 1302 1426 1666 1882 2275 2886 4110
+ 566 604 663 731 820 923 1079 1291 1681 2400
+ 281 302 324 350 387 433 501 608 771 1181
+ 188 201 214 233 251 282 319 370 480 758
+ 115 121 127 136 147 161 177 206 258 366
+ 78 82 87 92 99 107 117 136 165 223
+ 56 58 61 65 70 77 83 94 112 145
+ 36 37 39 41 44 48 52 58 69 90
+ 26 27 28 30 32 34 37 41 47 61
+ 21 22 23 24 25 27 29 33 38 48
+ 16 16 17 18 19 20 21 24 28 36
+ 12 13 13 14 15 16 17 18 21 27
+ 10 10 11 11 12 13 14 15 17 22
+ 7 7 8 8 9 9 10 11 12 16
+ 6 6 6 7 7 7 8 9 10 12
+ 5 5 5 6 6 6 7 7 8 10
+ 4 4 4 5 5 5 6 6 7 8
+ 3 4 4 4 4 4 5 5 6 7
+ 3 3 3 3 3 4 4 4 5 6
+ 2 2 3 3 3 3 3 3 4 4
+ 2 2 2 2 2 3 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN1>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN2_1sided
+count = 2203
+'<3dClustSim_NN2
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="1-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 14028 14558 15128 15696 16391 17044 17941 19014 20455 22699
+ 11573 12160 12639 13227 13999 14810 15715 16716 18177 20395
+ 8595 9250 9877 10476 11292 12140 13106 14167 15766 18055
+ 5950 6429 7016 7591 8346 9304 10456 11484 12904 15461
+ 3861 4178 4665 5127 5761 6340 7279 8397 9811 12266
+ 2398 2628 2827 3113 3515 4027 4578 5438 6832 9065
+ 1421 1532 1660 1819 2025 2264 2757 3231 4200 5710
+ 773 836 908 1004 1116 1258 1465 1772 2296 3279
+ 361 388 420 458 515 581 683 801 1067 1562
+ 229 247 265 286 314 357 407 497 626 959
+ 133 141 151 160 175 198 223 261 334 469
+ 88 93 99 105 115 125 141 163 197 288
+ 62 65 69 74 80 87 95 110 131 173
+ 39 41 43 45 49 53 58 64 77 102
+ 28 29 31 33 35 37 40 45 51 69
+ 22 23 24 26 27 29 32 36 41 53
+ 16 17 18 19 20 21 23 26 30 38
+ 13 14 14 15 16 17 18 20 23 29
+ 10 11 11 12 13 13 14 16 18 23
+ 7 8 8 9 9 10 11 12 13 17
+ 6 6 6 7 7 8 8 9 10 13
+ 5 5 6 6 6 7 7 8 9 11
+ 4 4 5 5 5 5 6 6 7 9
+ 4 4 4 4 4 4 5 5 6 7
+ 3 3 3 3 4 4 4 4 5 6
+ 2 3 3 3 3 3 3 4 4 5
+ 2 2 2 2 2 3 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 3 3
+</3dClustSim_NN2>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN3_1sided
+count = 2211
+'<3dClustSim_NN3
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="1-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 14739 15190 15753 16307 16928 17533 18414 19424 20777 23040
+ 12495 12981 13417 14060 14735 15348 16221 17252 18659 20783
+ 9879 10414 10980 11539 12271 12980 13928 14808 16335 18458
+ 7015 7457 8089 8678 9450 10328 11190 12223 13624 15926
+ 4515 4936 5414 5950 6516 7316 8288 9363 10848 13126
+ 2760 2991 3227 3548 4002 4558 5240 6282 7619 10039
+ 1615 1743 1892 2082 2322 2639 3118 3672 4746 6427
+ 858 928 1021 1120 1235 1428 1664 2028 2602 3796
+ 395 424 459 505 563 639 747 889 1180 1698
+ 247 264 285 313 351 390 445 538 686 1063
+ 140 149 158 171 189 210 236 287 366 538
+ 92 97 103 111 120 132 150 174 212 307
+ 65 68 72 77 83 89 99 115 136 185
+ 40 42 44 47 50 55 59 65 79 103
+ 28 30 31 33 35 38 41 46 53 71
+ 22 23 25 26 28 30 32 36 42 56
+ 17 17 18 19 20 22 24 27 30 39
+ 13 14 14 15 16 17 18 20 23 30
+ 10 11 11 12 13 14 15 16 19 24
+ 8 8 8 9 9 10 11 12 13 17
+ 6 6 7 7 7 8 8 9 10 13
+ 5 5 6 6 6 7 7 8 9 11
+ 4 4 5 5 5 5 6 6 7 9
+ 4 4 4 4 4 5 5 5 6 7
+ 3 3 3 3 4 4 4 4 5 6
+ 2 3 3 3 3 3 3 4 4 5
+ 2 2 2 2 2 3 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 3 3
+</3dClustSim_NN3>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN1_2sided
+count = 2122
+'<3dClustSim_NN1
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="2-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 2593 2770 3061 3338 3692 4026 4467 5264 6398 7952
+ 2071 2194 2379 2607 2922 3236 3632 4083 5062 6566
+ 1647 1762 1881 2028 2258 2574 2885 3298 3957 5249
+ 1246 1330 1437 1568 1725 1920 2207 2540 3044 4018
+ 917 990 1074 1163 1279 1412 1623 1905 2263 3070
+ 655 703 750 824 910 1007 1137 1329 1654 2360
+ 438 467 509 552 616 678 767 891 1122 1567
+ 277 294 313 339 371 417 471 553 675 979
+ 157 166 175 188 203 223 247 288 355 508
+ 114 118 125 132 142 153 170 192 239 329
+ 75 79 82 87 91 99 110 122 140 188
+ 54 56 59 62 66 70 76 86 98 124
+ 40 42 44 46 49 53 57 63 73 92
+ 27 28 30 31 33 35 38 42 48 61
+ 20 21 22 23 24 26 28 31 36 45
+ 16 17 18 19 20 21 23 25 29 36
+ 13 13 14 14 15 16 17 19 22 27
+ 10 10 11 11 12 13 14 15 17 21
+ 8 8 9 9 10 10 11 12 14 17
+ 6 6 7 7 7 8 8 9 10 13
+ 5 5 5 6 6 6 7 7 8 10
+ 4 4 5 5 5 5 6 6 7 9
+ 4 4 4 4 4 4 5 5 6 7
+ 3 3 3 3 4 4 4 4 5 6
+ 3 3 3 3 3 3 3 4 4 5
+ 2 2 2 2 3 3 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN1>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN2_2sided
+count = 2136
+'<3dClustSim_NN2
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="2-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 4096 4355 4666 5086 5548 6200 6889 7747 9053 10857
+ 3087 3310 3607 3897 4269 4724 5325 6193 7359 8907
+ 2303 2490 2722 2973 3258 3586 4084 4714 5675 7103
+ 1732 1866 2012 2203 2466 2748 3067 3553 4276 5581
+ 1253 1350 1464 1579 1758 1965 2254 2591 3093 4133
+ 892 953 1027 1108 1236 1359 1541 1849 2222 3106
+ 590 631 687 750 810 903 1021 1219 1450 2094
+ 358 387 416 457 498 554 627 734 905 1301
+ 193 207 221 237 260 288 329 372 458 644
+ 133 140 149 161 175 189 213 247 294 403
+ 86 89 94 99 106 117 128 144 168 232
+ 60 63 66 70 73 80 87 96 112 144
+ 44 46 48 51 54 58 62 71 82 105
+ 29 30 32 34 36 38 42 46 52 66
+ 21 22 23 25 26 28 30 33 38 47
+ 17 18 19 20 21 23 24 27 31 39
+ 13 14 15 15 16 17 18 20 23 29
+ 11 11 11 12 13 13 14 16 18 23
+ 9 9 9 10 10 11 12 13 15 18
+ 6 7 7 7 8 8 9 9 11 13
+ 5 5 6 6 6 6 7 8 9 11
+ 5 5 5 5 5 6 6 7 7 9
+ 4 4 4 4 4 5 5 5 6 7
+ 3 3 3 4 4 4 4 5 5 6
+ 3 3 3 3 3 3 4 4 4 5
+ 2 2 2 3 3 3 3 3 3 4
+ 2 2 2 2 2 2 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN2>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN3_2sided
+count = 2143
+'<3dClustSim_NN3
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="2-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 5124 5473 5891 6469 6972 7603 8262 9159 10380 12005
+ 3727 4040 4363 4670 5193 5718 6359 7206 8333 10020
+ 2766 2956 3214 3510 3807 4230 4789 5437 6597 8113
+ 2022 2169 2379 2584 2854 3150 3540 4047 4928 6162
+ 1437 1533 1663 1822 2036 2273 2583 2958 3618 4718
+ 996 1066 1147 1261 1380 1534 1792 2062 2451 3339
+ 649 708 756 822 902 1011 1147 1331 1653 2319
+ 392 420 454 495 542 605 672 805 1014 1464
+ 208 222 235 257 286 319 359 409 497 695
+ 140 149 160 173 187 203 227 269 315 448
+ 89 93 98 104 112 123 134 152 177 243
+ 62 65 68 72 76 83 90 102 118 158
+ 46 48 50 53 55 59 65 73 84 108
+ 30 31 33 34 36 39 43 47 54 68
+ 22 23 24 25 27 29 31 34 40 49
+ 18 18 19 20 22 23 25 28 32 40
+ 14 14 15 15 16 17 19 20 24 30
+ 11 11 12 12 13 14 15 16 19 23
+ 9 9 9 10 11 11 12 13 15 19
+ 6 7 7 7 8 8 9 9 11 13
+ 5 5 6 6 6 7 7 8 9 11
+ 5 5 5 5 5 6 6 7 7 9
+ 4 4 4 4 4 5 5 5 6 7
+ 3 3 3 4 4 4 4 5 5 6
+ 3 3 3 3 3 3 4 4 4 5
+ 2 2 2 3 3 3 3 3 4 4
+ 2 2 2 2 2 2 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN3>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN1_bisided
+count = 2123
+'<3dClustSim_NN1
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="bi-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 2584 2765 3061 3335 3689 4011 4457 5264 6398 7952
+ 2071 2194 2379 2601 2918 3232 3632 4083 5051 6565
+ 1647 1762 1881 2028 2257 2573 2885 3298 3957 5249
+ 1246 1330 1437 1568 1725 1920 2207 2540 3044 4018
+ 917 990 1074 1163 1279 1412 1623 1905 2263 3070
+ 655 703 750 824 910 1007 1137 1329 1654 2360
+ 438 467 509 552 616 678 767 891 1122 1567
+ 277 294 313 339 371 417 471 553 675 979
+ 157 166 175 188 203 223 247 288 355 508
+ 114 118 125 132 142 153 170 192 239 329
+ 75 79 82 87 91 99 110 122 140 188
+ 54 56 59 62 66 70 76 86 98 124
+ 40 42 44 46 49 53 57 63 73 92
+ 27 28 30 31 33 35 38 42 48 61
+ 20 21 22 23 24 26 28 31 36 45
+ 16 17 18 19 20 21 23 25 29 36
+ 13 13 14 14 15 16 17 19 22 27
+ 10 10 11 11 12 13 14 15 17 21
+ 8 8 9 9 10 10 11 12 14 17
+ 6 6 7 7 7 8 8 9 10 13
+ 5 5 5 6 6 6 7 7 8 10
+ 4 4 5 5 5 5 6 6 7 9
+ 4 4 4 4 4 4 5 5 6 7
+ 3 3 3 3 4 4 4 4 5 6
+ 3 3 3 3 3 3 3 4 4 5
+ 2 2 2 2 3 3 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN1>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN2_bisided
+count = 2137
+'<3dClustSim_NN2
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="bi-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 3969 4210 4528 4864 5339 5954 6656 7547 8822 10538
+ 3006 3214 3541 3829 4179 4635 5220 6045 7196 8850
+ 2269 2452 2691 2939 3213 3547 4017 4658 5600 7036
+ 1719 1845 2003 2186 2436 2739 3063 3543 4253 5496
+ 1249 1344 1455 1579 1754 1960 2251 2586 3088 4132
+ 892 952 1023 1108 1234 1355 1536 1848 2220 3106
+ 589 631 686 750 810 903 1021 1219 1450 2093
+ 358 386 414 456 498 552 626 734 905 1301
+ 193 207 221 237 260 288 329 372 458 644
+ 133 140 149 161 175 189 213 247 294 403
+ 86 89 94 99 106 117 128 144 168 232
+ 60 63 66 70 73 80 87 96 112 144
+ 44 46 48 51 54 58 62 71 82 105
+ 29 30 32 34 36 38 42 46 52 66
+ 21 22 23 25 26 28 30 33 38 47
+ 17 18 19 20 21 23 24 27 31 39
+ 13 14 15 15 16 17 18 20 23 29
+ 11 11 11 12 13 13 14 16 18 23
+ 9 9 9 10 10 11 12 13 15 18
+ 6 7 7 7 8 8 9 9 11 13
+ 5 5 6 6 6 6 7 8 9 11
+ 5 5 5 5 5 6 6 7 7 9
+ 4 4 4 4 4 5 5 5 6 7
+ 3 3 3 4 4 4 4 5 5 6
+ 3 3 3 3 3 3 4 4 4 5
+ 2 2 2 3 3 3 3 3 3 4
+ 2 2 2 2 2 2 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN2>~
+
+type = string-attribute
+name = AFNI_CLUSTSIM_NN3_bisided
+count = 2142
+'<3dClustSim_NN3
+  ni_type="10*float"
+  ni_dimen="29"
+  commandline="3dClustSim -prefix test.results/stats.ttest.CSimA -LOTS -both -nodec -cmd test.results/stats.ttest.CSimA.cmd -insdat /labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc ./test.results/stats.ttest.0000.sdat ./test.results/stats.ttest.0001.sdat ./test.results/stats.ttest.0002.sdat ./test.results/stats.ttest.0003.sdat ./test.results/stats.ttest.0004.sdat ./test.results/stats.ttest.0005.sdat ./test.results/stats.ttest.0006.sdat ./test.results/stats.ttest.0007.sdat"
+  thresholding="bi-sided"
+  nxyz="73,87,73"
+  dxyz="2.500,2.500,2.500"
+  fwhmxyz="0.00,0.00,0.00"
+  iter="10080"
+  pthr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.015,0.01,0.007,0.005,0.003,0.002,0.0015,0.001,0.0007,0.0005,0.0003,0.0002,0.00015,0.0001,7e-05,5e-05,3e-05,2e-05,1.5e-05,1e-05"
+  athr="0.1,0.09,0.08,0.07,0.06,0.05,0.04,0.03,0.02,0.01"
+  mask_dset_idcode="AFN_OK0PauiRBYoPgf8D9Olevg"
+  mask_dset_name="/labs/koutstaal/Semantic_Cognition/semantic_root/j_triads_univ/j_triads_group/stats/pcb/group_80%_mask+tlrc.HEAD"
+  mask_count="104783" >
+ 4493 4817 5194 5619 6195 6790 7483 8384 9653 11326
+ 3453 3743 3987 4364 4744 5298 5962 6845 7974 9631
+ 2613 2836 3079 3346 3658 4053 4591 5222 6376 7843
+ 1947 2101 2310 2521 2767 3053 3405 3966 4770 6049
+ 1415 1514 1645 1798 2009 2251 2541 2923 3568 4674
+ 987 1059 1136 1254 1375 1523 1788 2047 2439 3331
+ 647 703 755 821 898 1002 1147 1329 1653 2319
+ 391 418 453 494 542 602 671 805 1013 1464
+ 208 222 235 257 286 318 359 409 497 695
+ 140 149 160 173 187 203 227 269 315 448
+ 89 92 98 104 112 123 134 152 177 243
+ 62 65 68 72 76 83 90 102 118 158
+ 46 48 50 53 55 59 65 73 84 108
+ 30 31 33 34 36 39 43 47 54 68
+ 22 23 24 25 27 29 31 34 40 49
+ 18 18 19 20 22 23 25 28 32 40
+ 14 14 15 15 16 17 19 20 24 30
+ 11 11 12 12 13 14 15 16 19 23
+ 9 9 9 10 11 11 12 13 15 19
+ 6 7 7 7 8 8 9 9 11 13
+ 5 5 6 6 6 7 7 8 9 11
+ 5 5 5 5 5 6 6 7 7 9
+ 4 4 4 4 4 5 5 5 6 7
+ 3 3 3 4 4 4 4 5 5 6
+ 3 3 3 3 3 3 4 4 4 5
+ 2 2 2 3 3 3 3 3 4 4
+ 2 2 2 2 2 2 3 3 3 4
+ 2 2 2 2 2 2 2 3 3 3
+ 2 2 2 2 2 2 2 2 2 3
+</3dClustSim_NN3>~
